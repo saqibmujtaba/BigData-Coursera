@@ -1,2 +1,2 @@
 # BigData-Coursera
-Big Data Specialization on Courserafrom University of California San Diego 
+Big Data Specialization on Courserafrom University of California San Diego
