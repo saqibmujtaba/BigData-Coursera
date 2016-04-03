@@ -1,0 +1,12 @@
+Q:Which of the following are valid access mechanisms for HDFS
+A:Accessed via Java API,Accessed via HTTP
+
+invalid command:
+cp -r /user/data /user/test/
+
+
+to get status: hdfs dfsadmin -report
+
+
+
+Which of the following is not a method in FSDataInputStream:

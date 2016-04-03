@@ -1,0 +1,15 @@
+Q:Name the configuration file which holds HDFS tuning parameters
+A: hdfs-site.xml
+
+Q:Name the parameter that controls the replication factor in HDFS:
+A: dfs.replication
+
+Q:Check answers that apply when replication is lowered
+A: HDFS is less robust
+
+
+Q:Check answers that apply when NameNode fails to receive heartbeat from a DataNode
+A:
+
+Q:How is data corruption mitigated in HDFS
+A:Data from all replicas is compared for correctness
